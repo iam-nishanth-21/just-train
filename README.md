@@ -13,7 +13,7 @@ $ python train.py --img 640 --batch 16 --epochs 48 --data models/custom_yolov5.y
 
 ```
 
-$ python train.py --img 640 --batch 16 --epochs 48 --data models/custom_yolov5.yaml --weights custom_yolov5.pt --cache
+$ python train.py --img 640 --batch 16 --epochs 48 --data models/uav.yaml --weights uav.pt --cache
 
 ```
 
